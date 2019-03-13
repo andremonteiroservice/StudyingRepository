@@ -19,3 +19,4 @@ Untracked files:
 
 nothing added to commit but untracked files present (use "git add" to track)
 
+REALIZANDO UMA TERCEIRA ALTERAÇÃO NO ARQUIVO VIA REPOSITÓRIO REMOTO
