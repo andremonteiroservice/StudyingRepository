@@ -1,0 +1,6 @@
+$ git log
+commit 1d0b9853f71a032561f3f2c37498e1b26bfa1236 (HEAD -> master)
+Author: André Monteiro <andre.limaservice@gmail.com>
+Date:   Tue Mar 12 23:25:49 2019 -0300
+
+    status.txt COMITADO
